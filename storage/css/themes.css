@@ -167,3 +167,14 @@
     --hover-color: rgb(40, 37, 37);
     --text-glow: rgb(167, 165, 165);
 }
+
+:root.theme-bluid {
+  "backgroundImage": "https://i.imgur.com/JGFOCku.png",
+  "fontFamily": "Ubuntu",
+  "textColor": "#82a0e6",
+  "backgroundColor": "#080c1c",
+  "borderColor1": "#6e8cdc",
+  "borderColor2": "#415fcd",
+  "hoverColor": "#2a408d",
+  "textGlow": "#000000"
+}
