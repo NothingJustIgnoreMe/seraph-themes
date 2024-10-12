@@ -169,12 +169,12 @@
 }
 
 :root.theme-bluid {
-  "backgroundImage": "https://i.imgur.com/JGFOCku.png",
-  "fontFamily": "Ubuntu",
-  "textColor": "#82a0e6",
-  "backgroundColor": "#080c1c",
-  "borderColor1": "#6e8cdc",
-  "borderColor2": "#415fcd",
-  "hoverColor": "#2a408d",
-  "textGlow": "#000000"
+    --background-image: url('https://i.imgur.com/JGFOCku.png');
+    --font-family: 'Ubuntu', sans-serif;
+    --text-color: #82a0e6; 
+    --border-color1: #6e8cdc;
+    --border-color2: #415fcd;
+    --background-color: #080c1c;
+    --hover-color: #2a408d;
+    --text-glow: #000000;
 }
