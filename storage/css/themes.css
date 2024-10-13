@@ -178,3 +178,14 @@
     --hover-color: #2a408d;
     --text-glow: #000000;
 }
+
+:root.theme-blacksite {
+    --background-image: url('https://i.imgur.com/Tx5yYLU.jpeg');
+    --font-family: 'Inconsolata', sans-serif;
+    --text-color: #d5f3f5; 
+    --border-color1: #d6f4ff;
+    --border-color2: #181b1b;
+    --background-color: #172522;
+    --hover-color: #233432;
+    --text-glow: #8a9fa8;
+}
